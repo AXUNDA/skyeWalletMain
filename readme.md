@@ -6,6 +6,6 @@
 
 ###### the public postman documentation can be found at https://www.postman.com/bold-space-82858/workspace/new-team-workspace/collection/20589483-8a8881af-d110-4bc3-8094-9dd4112b8fbc?action=share&creator=20589483
 
-###### the front end is hosted on netlify - https://spectacular-pegasus-bb1fd9.netlify.app/home
+###### the front end is hosted on netlify - https://spectacular-pegasus-bb1fd9.netlify.app
 
 ###### the back end is hosted on cyclic - https://erin-glorious-hummingbird.cyclic.app/
