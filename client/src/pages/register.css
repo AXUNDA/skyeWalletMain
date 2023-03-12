@@ -1,0 +1,67 @@
+.mainContent {
+      height: calc(100vh - 77px);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+}
+
+.mainForm {
+      width: 330px;
+}
+
+.bottom {
+      color: #010068;
+      font-weight: bold;
+}
+
+.top {
+      display: flex;
+      justify-content: space-between;
+      margin-right: 40px;
+      margin-left: 40px;
+}
+
+.right {
+      display: flex;
+      gap: 8px;
+}
+
+.idS {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+}
+
+.each {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 9px;
+}
+
+.icon {
+      cursor: pointer;
+}
+
+.mainBody {
+      margin-right: 40px;
+      margin-left: 40px;
+
+}
+
+.userDetails {
+      width: 300px;
+}
+
+.details {
+      width: 530px;
+      padding: 25px;
+      border-radius: 15px;
+      border: 3px solid #3E54AC;
+      -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+      -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+      box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+
+}
