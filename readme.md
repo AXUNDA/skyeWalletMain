@@ -4,7 +4,7 @@
 * run npm start to start the server in production mode
 * on the front end ,change the fetch urls on each page to your local server url,and then run npm start
 
-###### the public postman documentation can be found at https://www.postman.com/bold-space-82858/workspace/new-team-workspace/collection/20589483-8a8881af-d110-4bc3-8094-9dd4112b8fbc?action=share&creator=20589483
+###### the public postman documentation can be found at [skye-wallet-assesment (getpostman.com)](https://documenter.getpostman.com/view/20589483/2s93JushsM)
 
 ###### the front end is hosted on netlify - https://spectacular-pegasus-bb1fd9.netlify.app
 
