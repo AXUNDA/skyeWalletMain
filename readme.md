@@ -5,7 +5,7 @@
 * on the front end ,change the fetch urls on each page to your local server url,and then run npm start
 
 
-**#~~~the public postman documentation can be found at [skye-wallet-assesment (getpostman.com)](https://documenter.getpostman.com/view/20589483/2s93JushsM)**
+*#~~~the public postman documentation can be found at [skye-wallet-assesment (getpostman.com)](https://documenter.getpostman.com/view/20589483/2s93JushsM)**
 
 
 ### ~~~~the front end is hosted on netlify - https://spectacular-pegasus-bb1fd9.netlify.app
